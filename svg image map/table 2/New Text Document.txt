@@ -1,0 +1,13 @@
+Hi Amir,
+
+As per our discussion please do the below changes
+
+1) To make attractive HTML for the Request list view please share HTML for the highlighted part in the attached screenshot.
+The column name is as follows:
+Task Type
+Task Status
+Location
+Job No
+Date
+Name (assigned to name (photo in round shape and followed by name))
+Add comment icon
